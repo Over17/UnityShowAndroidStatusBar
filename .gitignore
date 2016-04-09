@@ -1,0 +1,3 @@
+*.meta
+Assets/Plugins/Android/UnityShowAndroidStatusBar/gen/*
+Assets/Plugins/Android/UnityShowAndroidStatusBar/local.properties
