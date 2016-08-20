@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="UnityStatusBarTheme" parent="android:Theme.Material.Light.NoActionBar.Fullscreen" />
+<style name="UnityTransparentStatusBarTheme" parent="UnityStatusBarTheme">
+<item name="android:windowTranslucentStatus">true</item>
+<item name="android:windowTranslucentNavigation">true</item>
+</style>
+</resources>
