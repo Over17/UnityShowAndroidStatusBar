@@ -1,3 +1,8 @@
+Version 0.3 (2016-08-22)
+
+* Added the translucent status bar feature (enabled by default)
+
+
 Version 0.2 (2016-05-06)
 
 * Apply status and navigation bar visibility before the splash screen
