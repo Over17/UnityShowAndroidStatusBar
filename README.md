@@ -19,4 +19,4 @@ This plugin also enables translucent status and navigation bars on KitKat (Andro
 Use your tool of choice if you want to rebuild the code. Since it depends on UnityPlayerActivity, you should add Unity's classes.jar to bin/ to build successfully. Don't forget to remove Unity's classes.jar when adding the plugin to your Unity project to prevent "class already added" errors.
 
 ## See Also
-Please refer to Google documentation for more details: http://developer.android.com/training/system-ui/index.html
+Please refer to Google documentation for more details: https://developer.android.com/training/system-ui/index.html
