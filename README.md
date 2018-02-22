@@ -16,7 +16,8 @@ This plugin also enables translucent status and navigation bars on KitKat (Andro
 5.	Enjoy
 
 ## How to Build
-Use your tool of choice if you want to rebuild the code. Since it depends on UnityPlayerActivity, you should add Unity's classes.jar to bin/ to build successfully. Don't forget to remove Unity's classes.jar when adding the plugin to your Unity project to prevent "class already added" errors.
+0. Put Unity's classes.jar into src/UnityShowAndroidStatusBar/libs/
+1. Run `gradlew assemble` from src/UnityAndroidPermissions/
 
 ## See Also
 Please refer to Google documentation for more details: https://developer.android.com/training/system-ui/index.html
