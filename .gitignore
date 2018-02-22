@@ -3,6 +3,7 @@ Packages/
 ProjectSettings/
 src/UnityShowAndroidStatusBar/.gradle/
 src/UnityShowAndroidStatusBar/build/
+src/UnityShowAndroidStatusBar/libs/classes.jar
 Temp/
 UnityPackageManager/
 *.meta
