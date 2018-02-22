@@ -1,3 +1,11 @@
+Library/
+Packages/
+ProjectSettings/
+src/UnityShowAndroidStatusBar/.gradle/
+src/UnityShowAndroidStatusBar/build/
+Temp/
+UnityPackageManager/
 *.meta
-Assets/Plugins/Android/UnityShowAndroidStatusBar/gen/*
-Assets/Plugins/Android/UnityShowAndroidStatusBar/local.properties
+*.csproj
+*.sln
+.vs/
