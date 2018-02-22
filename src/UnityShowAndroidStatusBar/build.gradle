@@ -11,6 +11,10 @@ buildscript {
 	}
 } 
 
+dependencies {
+	compileOnly files('./libs/classes.jar')
+}
+
 android {
     compileSdkVersion 23
     buildToolsVersion "26.0.2"
