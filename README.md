@@ -17,7 +17,7 @@ This plugin also enables translucent status and navigation bars on KitKat (Andro
 
 ## How to Build
 0. Put Unity's classes.jar into src/UnityShowAndroidStatusBar/libs/
-1. Run `gradlew assemble` from src/UnityAndroidPermissions/
+1. Run `gradlew assemble` from src/UnityShowAndroidStatusBar/
 
 ## See Also
 Please refer to Google documentation for more details: https://developer.android.com/training/system-ui/index.html
